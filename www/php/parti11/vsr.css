@@ -1,0 +1,21 @@
+p{
+  font-size: 25px;
+  color: white;
+}
+a{
+    color: white;
+    background: black;
+    font-size: 35px;
+    margin-right: 50px;
+    font-family: URW Chancery L, cursive;
+}
+label{
+  color:white ;
+  font-size: 30px;
+  font-family: URW Chancery L, cursive;
+}
+div{
+    height: 928px;
+    background: rgba(0,0,0,0.6);
+    color: red;
+}
